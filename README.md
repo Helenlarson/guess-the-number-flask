@@ -31,16 +31,18 @@ Python
 Flask
 HTML
 CSS
+
+##  Live Demo
+https://guess-the-number-flask.onrender.com
+
+- Python
+- Flask
+- HTML
 How to Run Locally
 Clone the repository:
 git clone https://github.com/Helenlarson/guess-the-number-flask.git
 
-1. Clone the repository:
-```bash
-git clone https://github.com/Helenlarson/guess-the-number-flask.git
 
-##  Live Demo
 
-https://guess-the-number-flask.onrender.com
 
 
