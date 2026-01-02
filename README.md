@@ -35,12 +35,11 @@ CSS
 ##  Live Demo
 https://guess-the-number-flask.onrender.com
 
-- Python
-- Flask
-- HTML
-How to Run Locally
+##  How to Run Locally
+
 Clone the repository:
 git clone https://github.com/Helenlarson/guess-the-number-flask.git
+
 
 
 
